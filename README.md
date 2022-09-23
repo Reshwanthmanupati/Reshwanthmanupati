@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reshwanthmanupati
+- 👋 Hi, I’m Reshwanth @reshwanthmanupati
 - 👀 I’m doing my bachelors at SRM Institute of Science and Technology, Chennai, Tamil Nadu, India
 - 🌱 I’m currently learning the programming languages : C
 - 📫 How to reach me :  E-mail: reshwanth83@gmail.com
